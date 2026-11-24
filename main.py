@@ -4,6 +4,9 @@
 Writes a single line (1-240 characters) to /output/entry.txt: a quiet,
 earned moment of pride for someone in a scene. No arguments, no network,
 no dependencies — just the line.
+
+Craft note: two years of sounding out every word, distilled into one
+bedtime story read all the way to the end.
 """
 
 import os
